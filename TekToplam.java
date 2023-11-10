@@ -9,6 +9,6 @@ public class TekToplam {
         }
 
         System.out.println("1'den 999'a kadar olan tüm tek tamsayıların toplamı: " + toplam);
-        //commit deneme
+        //commit deneme2
     }
 }
