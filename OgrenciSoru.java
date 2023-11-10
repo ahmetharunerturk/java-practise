@@ -23,6 +23,7 @@ public class OgrenciSoru {
             } else {
                 System.out.print("Yanlış cevap!");
             }
+            //version control try
         }
     }
 }
